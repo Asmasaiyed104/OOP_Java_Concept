@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Java-Practice-27-08-24.iml" filepath="$PROJECT_DIR$/Java-Practice-27-08-24.iml" />
+>>>>>>> 13e81a2f44077172624b9f9d2926b60d83158cb7
     </modules>
   </component>
 </project>
